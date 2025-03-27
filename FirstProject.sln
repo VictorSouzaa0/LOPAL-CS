@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstProject", "FirstProjec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises", "Exercises\Exercises.csproj", "{7656ECFB-794D-4230-BCAB-20981EF3E986}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{B30B832F-4DAD-4982-AE9D-7E4A07DB2720}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7656ECFB-794D-4230-BCAB-20981EF3E986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7656ECFB-794D-4230-BCAB-20981EF3E986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7656ECFB-794D-4230-BCAB-20981EF3E986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30B832F-4DAD-4982-AE9D-7E4A07DB2720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30B832F-4DAD-4982-AE9D-7E4A07DB2720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30B832F-4DAD-4982-AE9D-7E4A07DB2720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30B832F-4DAD-4982-AE9D-7E4A07DB2720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
