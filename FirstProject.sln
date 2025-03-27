@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises", "Exercises\Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{B30B832F-4DAD-4982-AE9D-7E4A07DB2720}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionLogics", "ExpressionLogics\ExpressionLogics.csproj", "{99DD61C8-8953-430E-9173-9C265BB9611A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B30B832F-4DAD-4982-AE9D-7E4A07DB2720}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B30B832F-4DAD-4982-AE9D-7E4A07DB2720}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B30B832F-4DAD-4982-AE9D-7E4A07DB2720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DD61C8-8953-430E-9173-9C265BB9611A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DD61C8-8953-430E-9173-9C265BB9611A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DD61C8-8953-430E-9173-9C265BB9611A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DD61C8-8953-430E-9173-9C265BB9611A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
