@@ -1,0 +1,14 @@
+/home/victor/RiderProjects/FirstProject/Exercises/bin/Debug/net9.0/Exercises
+/home/victor/RiderProjects/FirstProject/Exercises/bin/Debug/net9.0/Exercises.deps.json
+/home/victor/RiderProjects/FirstProject/Exercises/bin/Debug/net9.0/Exercises.runtimeconfig.json
+/home/victor/RiderProjects/FirstProject/Exercises/bin/Debug/net9.0/Exercises.dll
+/home/victor/RiderProjects/FirstProject/Exercises/bin/Debug/net9.0/Exercises.pdb
+/home/victor/RiderProjects/FirstProject/Exercises/obj/Debug/net9.0/Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/RiderProjects/FirstProject/Exercises/obj/Debug/net9.0/Exercises.AssemblyInfoInputs.cache
+/home/victor/RiderProjects/FirstProject/Exercises/obj/Debug/net9.0/Exercises.AssemblyInfo.cs
+/home/victor/RiderProjects/FirstProject/Exercises/obj/Debug/net9.0/Exercises.csproj.CoreCompileInputs.cache
+/home/victor/RiderProjects/FirstProject/Exercises/obj/Debug/net9.0/Exercises.dll
+/home/victor/RiderProjects/FirstProject/Exercises/obj/Debug/net9.0/refint/Exercises.dll
+/home/victor/RiderProjects/FirstProject/Exercises/obj/Debug/net9.0/Exercises.pdb
+/home/victor/RiderProjects/FirstProject/Exercises/obj/Debug/net9.0/Exercises.genruntimeconfig.cache
+/home/victor/RiderProjects/FirstProject/Exercises/obj/Debug/net9.0/ref/Exercises.dll
