@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/victor/RiderProjects/FirstProject/FirstProject/FirstProject.csproj": {}
+    "C:\\Users\\ct67ca\\Documents\\Victor\\LOPAL-CS\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "/home/victor/RiderProjects/FirstProject/FirstProject/FirstProject.csproj": {
+    "C:\\Users\\ct67ca\\Documents\\Victor\\LOPAL-CS\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/victor/RiderProjects/FirstProject/FirstProject/FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\ct67ca\\Documents\\Victor\\LOPAL-CS\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "/home/victor/RiderProjects/FirstProject/FirstProject/FirstProject.csproj",
-        "packagesPath": "/home/victor/.nuget/packages/",
-        "outputPath": "/home/victor/RiderProjects/FirstProject/FirstProject/obj/",
+        "projectPath": "C:\\Users\\ct67ca\\Documents\\Victor\\LOPAL-CS\\FirstProject\\FirstProject.csproj",
+        "packagesPath": "C:\\Users\\ct67ca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ct67ca\\Documents\\Victor\\LOPAL-CS\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/victor/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ct67ca\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/victor/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\ct67ca\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -40,7 +40,7 @@ namespace FirstProject //Nome onde está sendo agrupado o programa
             char sex = char.Parse(vetor[1]);
             int age = int.Parse(vetor[2]);
             double height = double.Parse(vetor[3], CultureInfo.InvariantCulture);
-            Console.WriteLine("Nome: " +name + "\n" + "Sexo: " + sex + "\n" + "Idade: "+ age  + "\n" + height.ToString(CultureInfo.InvariantCulture));
+            Console.WriteLine("Nome: " +namee + "\n" + "Sexo: " + sex + "\n" + "Idade: "+ age  + "\n" + height.ToString(CultureInfo.InvariantCulture));
         }
     }
 }
